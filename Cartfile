@@ -1,10 +1,4 @@
 github "psharanda/Atributika"
-github "SnapKit/SnapKit"
-github "52inc/Pulley"
 github "hyperoslo/Cache"
-github "evgenyneu/Cosmos"
 github "Raizlabs/BonMot"
-github "sberrevoets/SDCAlertView"
-github "yannickl/QRCodeReader.swift"
-github "RedMadRobot/input-mask-ios" ~> 3.5
 github "appsailor/ImagePicker" "feature/Swift-4.2"
