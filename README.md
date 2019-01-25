@@ -1,0 +1,2 @@
+# CarthageBinaries
+Carthage artifacts repo
