@@ -1,4 +1,5 @@
 github "52inc/Pulley" "2.6.2"
 github "SnapKit/SnapKit" "4.2.0"
+github "evgenyneu/Cosmos" "18.0.1"
 github "hyperoslo/Cache" "5.2.0"
 github "psharanda/Atributika" "4.6.8"
