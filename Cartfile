@@ -13,8 +13,8 @@
 # github "kishikawakatsumi/KeychainAccess" "v3.1.2"
 # github "onevcat/Kingfisher" "5.3.0"
 
-github "TouchInstinct/LeadKit" "0.9.12" # --platform iOS
-# github "TouchInstinct/LeadKitAdditions" "0.3.11" # --platform iOS,tvOS,macOS
+# github "TouchInstinct/LeadKit" "0.9.12" # --platform iOS
+# github "TouchInstinct/LeadKitAdditions" "0.3.12"
 
 # github "CosmicMind/Material" "2.16.4"
 # github "infobip/mobile-messaging-sdk-ios" "5.1.5"
