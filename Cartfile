@@ -14,7 +14,7 @@
 # github "onevcat/Kingfisher" "5.3.0"
 
 # github "TouchInstinct/LeadKit" "0.9.19" # --platform iOS
-# github "TouchInstinct/LeadKitAdditions" "0.3.12"
+# github "TouchInstinct/LeadKitAdditions" "0.3.13"
 
 # github "CosmicMind/Material" "2.16.4"
 # github "infobip/mobile-messaging-sdk-ios" "5.1.5"
